@@ -1,2 +1,2 @@
-# iStudy-Project-General
+# "iStudy" Project
 General Information for iStudy Project
